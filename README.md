@@ -1,4 +1,4 @@
-# Flask - develop_env
+# develop_env
 
 파이썬 가상환경 설정
 ---
@@ -10,9 +10,9 @@
 ```deactive```   
 
 플라스크   
----
-플라스크 설치
-```pop install Flask```
+---   
+플라스크 설치   
+```pop install Flask```  
 플라스크 실행   
 ```flask run```  
 플라스크 환경
